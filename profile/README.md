@@ -1,3 +1,3 @@
 # XCODEIA
 
-Présentation de l'organisation.
+Développement de logiciels musicaux.
